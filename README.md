@@ -1,6 +1,6 @@
 # Hello there... 
 ## About me :bowtie:
-I am a full stack developer who prefers to work on the frontEnd ! <br> Actually working with React and the framework NextJs !<br> I'm still studying computer science and also work at Sage!<br>
+I am a full stack developer who prefers to work on the frontEnd ! <br> Actually working with React and the framework NextJs !<br> I'm just graduate on my Master's degree in IT!<br>
 Video editing is also something I enjoy !
 
 ## Language i'm currently working with :computer: 
